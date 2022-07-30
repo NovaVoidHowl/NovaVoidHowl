@@ -1,6 +1,12 @@
-### Hi there 👋
+
+- 📫 How to reach me:
+  - <img src="https://keybase.io/images/icons/icon-keybase-logo-48.png" width="20" /> Keybase: https://keybase.io/nvh  
+  - <img src="https://user-images.githubusercontent.com/31048789/181919940-a340e03c-7436-485d-a433-983d498e2604.png" width="20" /> Discord: NovaVoidHowl#5214  
+  - <img src="https://user-images.githubusercontent.com/31048789/181919940-a340e03c-7436-485d-a433-983d498e2604.png" width="20" /> Discord Server: https://dc.theworldcore.link/  
+-  <img src="https://external-content.duckduckgo.com/ip3/chilloutvr.de.ico" width="20" /> CVR username: NovaVoidHowl
 
 <!--
+### Hi there 👋
 **NovaVoidHowl/NovaVoidHowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
