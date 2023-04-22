@@ -1,8 +1,8 @@
 
 - 📫 How to reach me:
-  - [<img src="https://img.shields.io/static/v1?label=Keybase&message=nvh&color=0000DF&style=flat-square&logo=keybase">](https://keybase.io/nvh)
   - <img src="https://img.shields.io/static/v1?label=Discord&message=NovaVoidHowl%235214&color=0000DF&style=flat-square&logo=discord">
   - [<img src="https://img.shields.io/discord/794347463422115881?label=TheWorldCore&logo=discord&flat-square">](https://dc.theworldcore.link/)
+  - [<img src="https://img.shields.io/static/v1?label=Keybase&message=nvh&color=0000DF&style=flat-square&logo=keybase">](https://keybase.io/nvh)
 -  <img src="https://external-content.duckduckgo.com/ip3/chilloutvr.de.ico" width="20" /> ChilloutVR username: NovaVoidHowl
 
 ___
