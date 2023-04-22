@@ -1,9 +1,14 @@
 
 - 📫 How to reach me:
-  - <img src="https://keybase.io/images/icons/icon-keybase-logo-48.png" width="20" /> Keybase: https://keybase.io/nvh  
-  - <img src="https://user-images.githubusercontent.com/31048789/181919940-a340e03c-7436-485d-a433-983d498e2604.png" width="20" /> Discord: NovaVoidHowl#5214  
-  - <img src="https://user-images.githubusercontent.com/31048789/181919940-a340e03c-7436-485d-a433-983d498e2604.png" width="20" /> Discord Server: https://dc.theworldcore.link/  
--  <img src="https://external-content.duckduckgo.com/ip3/chilloutvr.de.ico" width="20" /> CVR username: NovaVoidHowl
+  - [<img src="https://img.shields.io/static/v1?label=Keybase&message=nvh&color=0000DF&style=flat-square&logo=keybase">](https://keybase.io/nvh)
+  - <img src="https://img.shields.io/static/v1?label=Discord&message=NovaVoidHowl%235214&color=0000DF&style=flat-square&logo=discord">
+  - [<img src="https://img.shields.io/discord/794347463422115881?label=TheWorldCore&logo=discord&flat-square">](https://dc.theworldcore.link/)
+-  <img src="https://external-content.duckduckgo.com/ip3/chilloutvr.de.ico" width="20" /> ChilloutVR username: NovaVoidHowl
+
+___
+
+![GitHub stats](https://github-readme-stats-novavoidhowl.vercel.app/api?username=NovaVoidHowl&show_icons=true&theme=midnight-purple&count_private=true&ring_color=0000DF&hide_border=true&custom_title=Github%20Stats)  
+
 
 <!--
 ### Hi there 👋
